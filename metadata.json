@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Akıllı Bütçe",
+  "description": "Yapay zeka destekli, kişisel gelir gider takip asistanı.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
